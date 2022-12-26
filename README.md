@@ -6,7 +6,7 @@
    <a href="https://www.linkedin.com/in/sasha-smygina"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </div>
 
-## 👩🏻‍💻 About me
+## 👩🏻‍💻 About Me
 
 Hey there :hugs: I’m a Back End Developer living in Tbilisi, Georgia.
 
