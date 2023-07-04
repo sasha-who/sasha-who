@@ -8,7 +8,7 @@
 
 ## 👩🏻‍💻 About Me
 
-Hey there :hugs: I’m a Back End Developer living in Tbilisi, Georgia.
+Hi there :hugs: I’m a Back End Developer living in Tbilisi, Georgia.
 
 - Currently working at [HTML Academy](https://htmlacademy.org/), an amazing EdTech company.
 - Love to solve code challenges and track my progress.
